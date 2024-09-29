@@ -1,2 +1,7 @@
 # PolyDestruct
-my new c++ malware (I'M NOT RESPONSIBLE FOR ANY DAMAGES)
+A malware I made in C++.
+> [!WARNING]
+> I'm not responsible for any damages made using this Trojan!
+
+> [!NOTE]
+> Zip pass: PolyDestructTrojan
